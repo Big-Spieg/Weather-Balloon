@@ -4,7 +4,7 @@ Instructions:
 
 
 ### Data Collection
-Connect the data wires of the sensors to A0-A-3. Install this code on the Arduino (make sure to sync RTC for accurate results).
+Connect the data wires of the sensors to A0-A-3. Install this code on the Arduino (make sure to sync RTC for accurate results). Data collection rate is 5000ms.
 
 
 ### Cleanup
